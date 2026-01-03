@@ -2,7 +2,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 
 -- [НАСТРОЙКИ ДОСТУПА]
 local VALID_KEY = "BetaTest"
-local SCRIPT_URL = "https://raw.githubusercontent.com/pavelsteam00-hash/Trident/refs/heads/main/Trident"
+local SCRIPT_URL = "https://raw.githubusercontent.com/pavelsteam00-hash/Trident/refs/heads/main/Trident.lua"
 
 local Window = Fluent:CreateWindow({
     Title = "Trident Survival | Authorization",
