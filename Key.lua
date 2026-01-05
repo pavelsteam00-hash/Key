@@ -1,7 +1,7 @@
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 -- [НАСТРОЙКИ ДОСТУПА]
-local VALID_KEY = "BetaTest"
+local VALID_KEY = "Update1"
 local SCRIPT_URL = "https://raw.githubusercontent.com/pavelsteam00-hash/Trident/refs/heads/main/Trident.lua"
 
 local Window = Fluent:CreateWindow({
